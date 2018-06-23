@@ -1,0 +1,5 @@
+TransitionProbabilities:0.5:0.5
+TransitionFromFair:0.1:0.99
+TransitionFromLoaded:0.99:0.01
+EmissionForFairDice:0.1667
+EmissionForLoadedDice:0.1:0.5
